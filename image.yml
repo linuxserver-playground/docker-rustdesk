@@ -10,6 +10,9 @@ upstream:
   version:
     type: github_release
     repo: rustdesk/rustdesk
+    require_assets:
+      - asset: '^rustdesk-.*-x86_64\.deb$'
+      - asset: '^rustdesk-.*-aarch64\.deb$'
   notes:
     type: github_release
     repo: rustdesk/rustdesk
