@@ -1,0 +1,2 @@
+RustDesk (GitHub Sponsors): https://github.com/sponsors/rustdesk
+RustDesk (Ko-fi): https://ko-fi.com/rustdesk
