@@ -16,6 +16,11 @@ upstream:
   notes:
     type: github_release
     repo: rustdesk/rustdesk
+  sponsor:
+  - name: RustDesk (GitHub Sponsors)
+    url: https://github.com/sponsors/rustdesk
+  - name: RustDesk (Ko-fi)
+    url: https://ko-fi.com/rustdesk
 
 release:
   branch: master
